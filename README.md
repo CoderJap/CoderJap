@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Japjot Singh Nanda
 - 👀 I’m interested in Coding & Tech Industry.
-- 🌱 I’m currently learning Web Development and DSA in C++ language. 
-- 💞️ 👨🏻‍🎓 Currently pursuing a bachelor's degree in computer science and engineering.
-- 🌱 I love learning new technologies, problem solving, and analytical and critic
+- 👨🏻‍🎓 Currently pursuing a bachelor's degree in computer science and engineering.
+- 🌱 I’m currently learning Web Development and DSA in C++ language and upskilling myself regularly in that domain.
+- 💞️ I love learning new technologies, problem solving, and analytical and critical thinking.
 - 📫 You can connect with me on linkedIn :) - www.linkedin.com/in/japjot-singh-nanda-374a3a288
 
 <!---
