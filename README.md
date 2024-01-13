@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/japjot singh nanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japjot singh nanda" height="30" width="40" /></a>
 <a href="https://leetcode.com/CoderJap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="japjot singh nanda" height="30" width="40" /></a>
-<a href="hackerrank.com/profile/japjotwork007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="japjot singh nanda" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/japjotwork007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="japjot singh nanda" height="30" width="40" /></a>
 
 </p>
 
