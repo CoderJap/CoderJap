@@ -63,6 +63,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charankamal20/charankamal20/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+[![An image of @coderjap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderjap)](https://holopin.io/@coderjap)
 <!---
 CoderJap/CoderJap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
