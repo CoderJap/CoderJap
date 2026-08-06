@@ -47,16 +47,18 @@ const Japjot = {
 </div>
 
 ---
-
+<!-- 
 ## 📈 Contribution Graph
 
-<div align="center">
+ <div align="center">
 
 [![Japjot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CoderJap&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> 
 
 ---
+
+-->
 
 <div align="center">
 
@@ -66,7 +68,7 @@ const Japjot = {
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
